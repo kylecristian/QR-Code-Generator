@@ -1,0 +1,15 @@
+{
+  "name": "qr_code_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@inquirer/prompts": "^7.3.1",
+    "qr-image": "^3.2.0"
+  }
+}
